@@ -1,0 +1,7 @@
+.card{
+    @apply bg-white rounded overflow-hidden shadow-md relative;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
